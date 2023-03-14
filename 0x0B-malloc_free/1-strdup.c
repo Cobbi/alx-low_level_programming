@@ -2,10 +2,10 @@
 #include <stdlib.h>
 #include "main.h"
 
-/*
+/**
 * _strdup - duplicate to new memory space location
 * @str: char
-* Return: Always return 0(Success)
+* Return: 0
 */
 
 char *_strdupi(char *str)
