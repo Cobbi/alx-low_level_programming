@@ -3,14 +3,14 @@
 #include "main.h"
 
 /*
- * _strdup - duplicate to new memory space locatio
- * @str: char
- * Return: 0
- */
+* main - Entry point
+* _strdup - duplicate to new memory space location
+* @str: char
+* Return: Always return 0(Success)
+*/
 
-char *_strdup(char *str)
+char *_strdupi(char *str)
 {
-
 	char *aaa;
 
 	int i, r = 0;
